@@ -1,0 +1,1 @@
+This is an unpublished dataset. Brefily, 357 accessions from RDP1 were phenotyped for salinity tolerance (12 mM NaCl). The experiment follows a very similar design as described in [Campbell et al (2015)](http://www.plantphysiol.org/content/168/4/1476). However, in this study the plants were phenotyped during the active tillering stage (~20 days after transplant).
