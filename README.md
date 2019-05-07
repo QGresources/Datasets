@@ -15,3 +15,5 @@ The directories and contents are listed below.
 	* NGR
 		* Olatoye_2018
 	
+* Arabidopsis
+  	* Lasky 2016
