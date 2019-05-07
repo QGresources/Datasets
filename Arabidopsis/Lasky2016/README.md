@@ -1,0 +1,4 @@
+# Lasky 2016
+This is a dataset from Jesse Lasky's 2016 [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12714) that describes an approach to synthesize data from common garden and genome–environment associations to infer SNP effects for local adaptation. The paper uses data from [Fournier-Level et al 2011](https://science.sciencemag.org/content/334/6052/86), [Handcock et al (2012)](https://science.sciencemag.org/content/334/6052/83), and [Horton et al (2012)](https://www.nature.com/articles/ng.1042). I have taken these data and selected accessions that have phenotypic information, climate data at their collection sites, and genotypic data. The .Rds file contains all these data. 
+SNPs were obtained from [here](http://bergelson.uchicago.edu/wp-content/uploads/2015/04/call_method_75.tar.gz)
+Phenotypic and climate data were accessed from [here](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.12714)
